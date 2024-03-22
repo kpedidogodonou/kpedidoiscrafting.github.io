@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Master in Mathematics, Economics and Statistics (MMES), African School of Economics, 2024 -2026 [Expected]
+* B.S. in Agroeconomics, Faculty of Agronomy Science - University of Abomey-Calavi, 2012-2015
+
 
 Work experience
 ======
